@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Claude
+.claude/
+
+# Temp files
+*.tmp
+*~
